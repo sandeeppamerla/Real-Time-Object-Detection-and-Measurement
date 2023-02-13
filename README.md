@@ -1,1 +1,1 @@
-# GD_2022_19BCT0091
+# Prototyping wearable computing with GPS tracking system
