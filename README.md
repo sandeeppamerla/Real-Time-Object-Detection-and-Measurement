@@ -6,11 +6,12 @@ We are more interested in mechanisation and speedy working since the introductio
 
 The implementation of this project is done using OpenCV library of Python. Theobject to be measured is placed on an A4 sheet. The A4 sheet can be aligned in any way. we will create a contours function that we allow us to first find the A4 paper and then to find the object inside it. So we will be using the same function to perform both of these tasks. we will apply some prepossessing to our coloured image. We will transform it into grayscale, then add some blur, then find the edges using the Canny edge detector and then apply some dilation and erosion. We use certain techniques to reduce the noise in the image and produce the correct form of image for the detection of the dimensions. Thus, the dimensions of the object is determined by following theabove suggested techniques.
 
-#Methodology Flowchart
+# Methodology Flowchart
+
 ![fig1](https://user-images.githubusercontent.com/111385394/218642561-c63cf171-890b-4d17-b700-c5f8f022c1aa.JPG)
 ![fig2](https://user-images.githubusercontent.com/111385394/218642681-ca4d3fa4-8b84-440f-9748-6516c928416c.JPG)
 
-#Procedure
+# Procedure
 1. Import cv2 and numpy library.
 2. Computer Vision library is short termed as cv2 library which
 helps totune the image as per our requirement and find the contours.
@@ -48,7 +49,7 @@ capturing an image from webcam produces the image of low resolution.
 22. Re-invoke the getContour function such that it detects the object in the paper.
 23. After detecting the image, draw the lines over the selected co-ordinates and finally display the image.
 
-#Advantages and Disadvantages
+# Advantages and Disadvantages
 Advantages:
 • It reduces man error and increases proficiency.
 • It can be used easily.
@@ -57,7 +58,7 @@ Advantages:
 Disadvantages:
 • Saving output.The output given does not get backed up in any record hence there is a need for a backing system.
 
-#Characteristics Of Project:
+# Characteristics Of Project:
 • It is a more convenient way to take measurements.
 • Easy implementation
 • Has a better future scope.
@@ -66,5 +67,5 @@ Disadvantages:
 • It will save money on instruments that we normally use to take measurements.
 • It is easy to use and will save time and effort.
 
-#CONCLUSION
+# CONCLUSION
 As a result of this system, many improvements can be made to the industrial sector. The project successfully measures the dimensions of the object in real-time. Hence the computer vision (webcam device and code) is used to measure the dimensions in real-time. It captures the image from the realtime video frame and then displays its dimensions. A Canny edge detector is successfully used to detect the dimensions. This technique works fast and has many advantages and salient features that can be implemented in the real wo Hereby we conclude by claiming that our model is 98% accurate and can be used in industrial applications to discard the objects of inappropriate sizes.
