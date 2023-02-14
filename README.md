@@ -67,5 +67,15 @@ Disadvantages:
 • It will save money on instruments that we normally use to take measurements.
 • It is easy to use and will save time and effort.
 
-# CONCLUSION
+# Conclusion
 As a result of this system, many improvements can be made to the industrial sector. The project successfully measures the dimensions of the object in real-time. Hence the computer vision (webcam device and code) is used to measure the dimensions in real-time. It captures the image from the realtime video frame and then displays its dimensions. A Canny edge detector is successfully used to detect the dimensions. This technique works fast and has many advantages and salient features that can be implemented in the real wo Hereby we conclude by claiming that our model is 98% accurate and can be used in industrial applications to discard the objects of inappropriate sizes.
+
+# Future Scope
+Machines are used in every part of human life. Machines work according to us but in today’s world, we work according to machines. The rush to soar high is immense. Hence, machines are important and so are the parts of them. If the parts do not fit well a machine cannot work properly. The dimensions of the objects sure make a great impact. This AI IOT based project will help in measuring the dimensions in real-time. It is convenient and easy to use. It also gives accuracy and trust in the product.
+
+# Testing Data And Observation
+![fig6](https://user-images.githubusercontent.com/111385394/218650233-61e81dc3-515a-4439-862d-35030c338488.JPG)
+![fig5](https://user-images.githubusercontent.com/111385394/218650240-a4739e5e-2fc4-4276-93dd-86ce6cd92f97.JPG)
+![fig3](https://user-images.githubusercontent.com/111385394/218650244-3a16b414-517d-4057-9479-86ddf4822c84.JPG)
+
+
