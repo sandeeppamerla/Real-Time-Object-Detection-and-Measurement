@@ -1,4 +1,4 @@
-# REAL TIME OBJECT MEASUREMENT
+# REAL-TIME OBJECT DETECTION AND MEASUREMENT 
 
 In these days, measuring the dimensions of some objects using ruler or some measuring tools has become hectic. Finding the dimensions of an object has to be digitalized. In this project, we propose an algorithm where the dimensions of an object is measured in video streams. This project has a scope in many sectors such as Production sector where the size of the product has to be determined. Let us assume that a company is manufacturing the bricks and it wants to discard the bricks of inappropriate sizes then our system would help itin determining the uneven sized bricks for relinquishment. There are a lot of industrialbased applications where object dimensions measurement plays a vital role. We use standard python libraries such as OpenCV, NumPy etc.., to capture the photo and find the dimensions of the object. Some functions associated with the tuning of the images are used.
 
